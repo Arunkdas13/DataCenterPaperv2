@@ -1,0 +1,75 @@
+state,county,plant_name,project_type,expected_operating_year,capacity_mw,ghg_co2e_tons_yr,criteria_pollutants_tons_yr,hap_tons_yr
+AZ,Pinal,Vermaland La Osa Data Center Campus Power Plant,New,Unknown,,,,
+IN,Jasper,Schahfer Generating Station,Expansion,Unknown,2300,7072554,2927,80.70
+MS,DeSoto,xAI Southaven Power Plant,New,2026,1240,6410729,1381,19.07
+NC,Cumberland,Fayetteville NetZero Data Center and Power Station,New,Unknown,300,1740905,403,5.06
+NC,Edgecombe,Kingsboro NetZero Data Center and Power Station,New,2029,1800,10445430,2421,30.34
+NC,Edgecombe,Tarboro NetZero Data Center and Power Station,New,Unknown,300,1740905,403,5.06
+NE,TBD,Tenaska Gas Power Plant,New,2029,3000,11370720,2874,36.02
+NM,Lea,New Era Lea County Power Station,New,2028,2000,11606033,2689,33.71
+NM,Dona Ana,Project Jupiter East Microgrid,New,2026,2393,8666492,853,24.22
+NM,Dona Ana,Project Jupiter West Microgrid,New,2026,1676,5628148,966,19.80
+OH,Wood,Apollo Generating Station,New,2027,514,2475581,905,24.40
+OH,Pickaway,Ashville Energy Center,New,2027,800,4642413,1076,13.48
+OH,Fayette,Bluegrass Power Generation Facility,New,2028,1184,5643355,1749,4.23
+OH,Licking,EdgeConneX New Albany North Power Plant,New,Unknown,577,1620767,651,50.90
+OH,Pike,Portsmouth Powered Land Project,New,Unknown,9200,53387753,12372,155.05
+OH,Licking,PowerConneX I and II New Albany Energy Center,New,2026,336,515358,641,1.71
+OH,Licking,PowerConneX New Albany 3 Energy Center,New,2027,430,2495297,578,7.25
+OH,Licking,Socrates North Power Generation Facility,New,2026,307,1514024,779,34.42
+OH,Licking,Socrates South Power Generation Facility,New,2026,307,1514024,779,34.15
+OH,Licking,Socrates the Younger Generating Station,New,2028,350,1825295,688,13.99
+OK,Grady,Chickasha Industrial Park Power Station,New,2028,500,2901508,672,8.43
+PA,Beaver,Aliquippa Data Center Power Plant,New,2028,500,2901508,672,8.43
+PA,Washington,Fort Cherry Power Station,New,Unknown,1000,5803017,1345,16.85
+PA,Indiana,Homer City Generating Station,New,2029,4678,17551454,3632,57.10
+PA,Greene,Project Hummingbird Power Plant,New,2029,944,3577987,904,11.33
+PA,Beaver,Shippingport Power Station,New,2028,3641,21128783,4896,61.36
+PA,Westmoreland,TECfusions Keystone Connect Power Plant,New,2031,2700,15668145,3631,45.50
+PA,Bradford,Wyalusing Energy Center,New,2026,248,1113659,313,5.07
+TBD,TBD,NextEra Exxon Southeast Power Plant,New,Unknown,1200,4548288,1149,14.41
+TX,Reeves,Alpha Digital Campus Power Plant,New,2027,2000,11606033,2689,33.71
+TX,TBD,Chevron AI Data Center Project,New,2027,5000,29015083,6724,84.27
+TX,Ward,Circe Energy Data Centers E. Monahans Campus,New,2027,160,687145,322,18.25
+TX,Comal,CloudBurst Data Center Power Plant,New,2026,1200,6963620,1614,20.22
+TX,Victoria,Crusoe-Blue Energy Data Center Power Station,New,2028,1500,8704525,2017,25.28
+TX,Webb,Data City Energy Center,New,2026,,,,
+TX,Reeves,Featherwood Energies Pecos Power Plant,New,2027,931,5402608,457,15.69
+TX,Carson,Fermi America Project Matador,New,2027,11280,40322831,9850,196.98
+TX,Midland,FO Permian Partners Data Center Complex,New,2026,5000,29015083,6724,84.27
+TX,Armstrong,Goodnight Data Center Power Plant,New,2027,933,4594980,1650,20.61
+TX,Pecos,GW Ranch Energy Center,New,2027,7650,33204964,11013,159.87
+TX,Reeves,Kilby Power Plant,New,Unknown,2869,13890275,3230,139.29
+TX,Glasscock,Lone Star Project,New,Unknown,100,580302,134,1.69
+TX,Taylor,Longhorn Data Center Power Plant,Expansion,2027,1398,6352606,2235,35.60
+TX,El Paso,McCloud Generation Facility,New,2027,366,1571843,241,20.46
+TX,Williamson,Mesones Data Center Campus,New,Unknown,,,,
+TX,Wilson,Misae Wilson Power Plant,New,2028,519,2228925,682,9.82
+TX,Pecos,MMEX Pecos Power Plant,New,Unknown,640,2425754,613,7.68
+TX,Hill,Nexus Data Center Hubbard Power Plant,New,2027,7227,22746568,5926,128.80
+TX,Hood,NRG Tolar Power Center,New,Unknown,2014,4208815,910,19.39
+TX,Hood,Pacifico Ft. Spunky Power Plant,New,2028,473,2744827,796,5.76
+TX,Gray,Pampa Data Center Power Plant,New,2026,400,2321207,538,6.74
+TX,Reeves,Pecos Power Generation,New,2027,956,3623469,365,11.48
+TX,Pecos,Poolside Generating Station,New,2027,332,1555427,428,7.56
+TX,Pecos,Rock House Draw Generating Station,New,2025,576,2473720,384,14.76
+TX,Ector,Texas Critical Data Centers Power Plant,New,2026,1000,5803017,1345,16.85
+TX,Anderson,Texas Power Generation Hub (Nextera-Comstock Power Station),New,2028,5200,30175686,6993,87.64
+TX,Caldwell,Tract Austin Power Plant,New,2028,,,,
+TX,Angelina,Verdant Power Plant,New,2026,600,3481810,711,10.75
+TX,Shackleford,VoltaGrid ABI-1 Electric Generating Station,New,2026,2582,10627597,2585,461.20
+TX,Bexar,VoltaGrid SAT-2 Power Plant,New,2025,149,639903,176,25.04
+TX,Ward,Xenergy Monahans Power Plant,Expansion,Unknown,98,420876,202,5.59
+UT,Millard,Creekstone Delta Gigasite Data Center,New,2030,2000,8589307,2271,28.46
+UT,Utah,Eagle Mountain Power Plant (Aquila Project),New,2027,521,2367343,580,15.88
+UT,Millard,Joule Capital Data Center and Power Station,New,2027,1500,6302663,2042,144.09
+UT,Box Elder,Stratos Project/Wonder Valley,New,2036,9000,38651880,10219,128.08
+VA,Fauquier,Remington Technology Park,New,2027,215,923350,171,3.06
+WV,Mingo,Adams Fork Data Center Energy Campus,New,2027,2850,7222837,712,0.86
+WV,Mingo,Adams Fork Harless Data Center Energy Campus,New,2027,2850,7222837,714,0.87
+WV,Mason,Monarch Compute Campus Power Plant,New,2031,8160,45880400,10605,720.88
+WV,Tucker,Ridgeline Power Plant,New,2027,1656,9609795,330,14.45
+WY,Laramie,BFC Power and Cheyenne Power Hub,New,2027,2200,10464682,2691,38.04
+WY,Natrona,Casper Campus Power Station,New,Unknown,1500,8704525,2017,25.28
+WY,Uinta,Evanston Power Station,New,2026,1200,6963620,1614,20.22
+WY,Carbon,Miller Generating Station,New,2028,2089,6006487,1272,7.69
